@@ -1,5 +1,5 @@
 # Hello, I'm Thiago Luna! 👋
-**(PHP | Laravel | Node | RabbitMQ | AWS | Google | Docker | New Relic | Microservices | API)** 🚀
+**(PHP | Laravel | Node | NestJS | RabbitMQ | AWS | Google | Docker | New Relic | Microservices | API)** 🚀
 
 👨‍💻 **Senior Software Engineer** at **[Kanastra](https://www.kanastra.com.br/)**   
 🎓 **Full Cycle Software Engineer Student** at **[Full Cycle](https://fullcycle.com.br/)**   
